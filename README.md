@@ -20,7 +20,7 @@ Archive of independent research and engineering workflows in computational desig
 > [!WARNING]
 > Work in Progress: Core simulation parameters and testing modules are actively being updated.
 
-3D printed robotic hand, utilising a servo-actuated tendon mechanism, currently driven by a potentiometer loop with an active scalability pipeline for Surface Electromyography muscle-sensor integration.
+3D printed robotic hand, utilising a **servo-actuated tendon mechanism**, currently driven by a potentiometer loop with an **active scalability pipeline** for **Surface Electromyography muscle-sensor integration**
 
 - **📐 Design Tools:** Cardboard prototyping, CAD modelling, circuit fabrication, 3D printing
 - **🧪 Testing Methods:** Kinematic **range-of-motion tracking**, tendon tension profiling, and **iterative** fit tolerance validation.
@@ -31,7 +31,7 @@ Archive of independent research and engineering workflows in computational desig
 > [!WARNING]
 > Work in Progress: Core simulation parameters and testing modules are actively being updated.
 
-An anatomically conscious, highly adaptable, patient-specific femoral plate, engineered to preserve bone microvascular blood supply.
+An **anatomically conscious**, highly adaptable, **patient-specific** femoral plate, engineered to preserve bone microvascular blood supply.
 
 - **📐 Design Tools:** CAD modelling
 - **🧪 Testing Methods:** FEA verification of **Ti-6Al-4V** vs. **cortical bone limits** under gait simulation.
