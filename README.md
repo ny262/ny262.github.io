@@ -16,4 +16,4 @@ An anatomically conscious, highly adaptable, patient-specific femoral plate, eng
 
 - **📐 Design Tools:** CAD modelling
 - **🧪 Testing Methods:** FEA verification of **Ti-6Al-4V** vs. **cortical bone limits** under gait simulation.
-- **🌐 Links:** [Technical Case Study](https://ny262.github.io/Paediatric-Femur-Plate-Simulation/) | [CAD & Data Repository](https://github.com/ny262/Paediatric-Femur-Plate-Simulation)
+- **🌐 Links:** [Design Progress Log](https://ny262.github.io/Paediatric-Femur-Plate-Simulation/) | [CAD & Data Repository](https://github.com/ny262/Paediatric-Femur-Plate-Simulation)
