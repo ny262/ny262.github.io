@@ -12,6 +12,8 @@ Archive of independent research and engineering workflows in computational desig
 ## Engineering Projects
 
 ### Paediatric Femur Plate Simulation
+![Status: Work in Progress](https://shields.io)
+
 An anatomically conscious, highly adaptable, patient-specific femoral plate, engineered to preserve bone microvascular blood supply.
 
 - **📐 Design Tools:** CAD modelling
