@@ -14,11 +14,11 @@ Archive of independent research and engineering workflows in computational desig
 ### Tendon-Driven Robotic Hand
 
 > [!WARNING]
-> Work in Progress: Core simulation parameters and testing modules are actively being updated.
+> Active development: Physical testing and code updating.
 
 3D printed robotic hand, utilising a **servo-actuated tendon mechanism**, currently driven by a potentiometer loop with an **active scalability pipeline** for **Surface Electromyography muscle-sensor integration**
 
-- 📐 **Design Tools:** Cardboard prototyping, Autodesk Fusion 360, circuit fabrication, 3D printing
+- 📐 **Design & Prototyping:** Cardboard prototyping, Autodesk Fusion 360, circuit fabrication, 3D printing
 - 🧪 **Testing Methods:** Kinematic **range-of-motion tracking**, tendon tension profiling, and **iterative** fit tolerance validation.
 - 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Tendon-Driven-Robotic-Hand/) | [CAD & Data Repository](https://github.com/ny262/Tendon-Driven-Robotic-Hand)
 
@@ -27,10 +27,10 @@ Archive of independent research and engineering workflows in computational desig
 ### Paediatric Femur Plate Simulation
 
 > [!WARNING]
-> Work in Progress: Core simulation parameters and testing modules are actively being updated.
+> Active development: Core simulations and parameters updating.
 
 An **anatomically conscious**, highly adaptable, **patient-specific** femoral plate, engineered to work in tandem with the human body's natural healing mechanisms.
 
-- 📐 **Design Tools:** Autodesk Fusion 360
+- 📐 **Design:** Autodesk Fusion 360
 - 🧪 **Testing Methods:** FEA verification of **Ti-6Al-4V** vs. **cortical bone limits** under gait simulation.
 - 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Paediatric-Femur-Plate-Simulation/) | [CAD & Data Repository](https://github.com/ny262/Paediatric-Femur-Plate-Simulation)
