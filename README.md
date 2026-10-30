@@ -11,8 +11,6 @@ Archive of independent research and engineering workflows in computational desig
 - **Programming and Data**: Python · MATLAB · Medical Image Processing (CT/MRI)
 - **Web and Methodology**: HTML · CSS · Basic JavaScript (Debugging) · Agile / Scrum Design Frameworks
 
-<br><br>
-
 ## Engineering Projects
 
 ### Tendon-Driven Robotic Hand
