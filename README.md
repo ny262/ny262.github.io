@@ -9,7 +9,11 @@ Archive of independent research and engineering workflows in computational desig
 - **Programming and Data**: Python · MATLAB · Medical Image Processing (CT/MRI)
 - **Web and Methodology**: HTML · CSS · Basic JavaScript (Debugging) · Agile / Scrum Design Frameworks
 
+<br><br>
+
 ## Engineering Projects
+
+<br><br>
 
 ### Tendon-Driven Robotic Hand
 
@@ -21,8 +25,6 @@ Archive of independent research and engineering workflows in computational desig
 - **📐 Design Tools:** Cardboard prototyping, CAD modelling, circuit fabrication, 3D printing
 - **🧪 Testing Methods:** Kinematic **range-of-motion tracking**, tendon tension profiling, and **iterative** fit tolerance validation.
 - **🌐 Links:** [Design Progress Log](https://ny262.github.io/Tendon-Driven-Robotic-Hand/) | [CAD & Data Repository](https://github.com/ny262/Tendon-Driven-Robotic-Hand)
-
-<br><br>
 
 ### Paediatric Femur Plate Simulation
 
