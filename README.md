@@ -3,8 +3,6 @@ Archive of independent research and engineering workflows in computational desig
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/naima-y-6699452b6/)
 
-<br><br>
-
 ## Technical Competencies
 - **CAD and Prototyping**: Autodesk Fusion 360 · Electromechanical Prototyping · 3D Printing
 - **Engineering and Electronics**: Applied Mechanics · Circuit Design · Engineering Calculus · Statistical and Data Analysis
