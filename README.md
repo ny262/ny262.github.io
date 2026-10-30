@@ -12,7 +12,9 @@ Archive of independent research and engineering workflows in computational desig
 ## Engineering Projects
 
 ### Paediatric Femur Plate Simulation
-$\color{red}{\textsf{Work in Progess}}$
+
+> [!WARNING]
+> Work in Progress: Core simulation parameters and testing modules are actively being updated.
 
 An anatomically conscious, highly adaptable, patient-specific femoral plate, engineered to preserve bone microvascular blood supply.
 
