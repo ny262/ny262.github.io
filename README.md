@@ -1,4 +1,12 @@
 # Medical Engineering Portfolio
+
+<table>
+  <tr>
+    <td><b>License</b></td>
+    <td><code>MIT</code></td>
+  </tr>
+</table>
+
 Archive of independent research and engineering workflows in computational design and simulation, biomechanics, and medical data coding.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/naima-yusuf-6699452b6/)
@@ -34,3 +42,30 @@ An **anatomically conscious**, highly adaptable, **patient-specific** femoral pl
 - 📐 **Design:** Autodesk Fusion 360
 - 🧪 **Testing Methods:** FEA verification of **Ti-6Al-4V** vs. **cortical bone limits** under gait simulation.
 - 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Paediatric-Femur-Plate-Simulation/) | [CAD & Data Repository](https://github.com/ny262/Paediatric-Femur-Plate-Simulation)
+
+---
+
+### NHS Prescription-Deprivation Analysis
+
+<table>
+  <tr>
+    <td><b>Python</b></td>
+    <td><code>3.10+</code></td>
+  </tr>
+</table>
+
+> [!WARNING]
+> Raw datasets are omitted due to scale. To run this pipeline, download the official sources listed below into your local directory and execute.
+
+Deployed an optimised python pipeline to explore the disparities in GLP-1 prescriptions across socio-economic boundaries. 
+
+- 🧮 **Key Pipeline Metrics**:
+  - Extracts the  total frequency of dulaglutide, liraglutide, semagludite, and tirzepatide prescription record counts across England.
+  - Matches each GP to its primary patient catchment area to map prescription density to the Lower Layer Super Output Area (LSOA)
+  - Correlates the geographic density clusters against national Income of Multiple Deprivation Deciles (1–10)
+
+- 📂 **Data Sources:**
+  - *Navigating Prescription Data:* Open and the official [NHSBSA October 2025 EPD Registry](https://opendata.nhsbsa.net/dataset/english-prescribing-dataset-epd-with-snomed-code/resource/d28455b2-7373-4d4a-8577-b28973ddba00).
+  - *Reference Directories (GP, LSOA, & IMD Ranks):* Filtered and pre-loaded directly within the [/reference_data](https://github.com/ny262/NHS-Prescription-Deprivation-Analysis/tree/main/reference_data) directory of this repository for convenience (**gp_practice_lsoa_map.csv** and **lsoa_deprivation_index.csv**).
+
+- 🌐 **Links:** [Analysis Results](https://ny262.github.io/NHS-Prescription-Deprivation-Analysis/) **|** [Main Portfolio Repository](https://github.com/ny262/ny262.github.io)
