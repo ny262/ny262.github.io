@@ -28,7 +28,7 @@ Archive of independent research and engineering workflows in computational desig
 
 - 📐 **Design & Prototyping:** Cardboard prototyping, Autodesk Fusion 360, circuit fabrication, 3D printing
 - 🧪 **Testing Methods:** Kinematic **range-of-motion tracking**, tendon tension profiling, and **iterative** fit tolerance validation.
-- 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Tendon-Driven-Robotic-Hand/) | [CAD & Data Repository](https://github.com/ny262/Tendon-Driven-Robotic-Hand)
+- 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Tendon-Driven-Robotic-Hand/) | [CAD & Code Repository](https://github.com/ny262/Tendon-Driven-Robotic-Hand)
 
 ---
 
@@ -41,7 +41,7 @@ An **anatomically conscious**, highly adaptable, **patient-specific** femoral pl
 
 - 📐 **Design:** Autodesk Fusion 360
 - 🧪 **Testing Methods:** FEA verification of **Ti-6Al-4V** vs. **cortical bone limits** under gait simulation.
-- 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Paediatric-Femur-Plate-Simulation/) | [CAD & Data Repository](https://github.com/ny262/Paediatric-Femur-Plate-Simulation)
+- 🌐 **Links:** [Design Progress Log](https://ny262.github.io/Paediatric-Femur-Plate-Simulation/) | [CAD & Code Repository](https://github.com/ny262/Paediatric-Femur-Plate-Simulation)
 
 ---
 
@@ -68,4 +68,4 @@ Deployed an optimised python pipeline to explore the disparities in GLP-1 prescr
   - [NHSBSA October 2025 EPD Registry](https://opendata.nhsbsa.net/dataset/english-prescribing-dataset-epd-with-snomed-code/resource/d28455b2-7373-4d4a-8577-b28973ddba00).
   - *Reference Directories (GP, LSOA, & IMD Ranks):* Filtered and pre-loaded directly within the [/reference_data](https://github.com/ny262/NHS-Prescription-Deprivation-Analysis/tree/main/reference_data) directory of this repository for convenience (**gp_practice_lsoa_map.csv** and **lsoa_deprivation_index.csv**).
 
-- 🌐 **Links:** [Analysis Results](https://ny262.github.io/NHS-Prescription-Deprivation-Analysis/) **|** [Data Repository](https://github.com/ny262/NHS-Prescription-Deprivation-Analysis)
+- 🌐 **Links:** [Analysis Results](https://ny262.github.io/NHS-Prescription-Deprivation-Analysis/) **|** [Code and Data Repository](https://github.com/ny262/NHS-Prescription-Deprivation-Analysis)
